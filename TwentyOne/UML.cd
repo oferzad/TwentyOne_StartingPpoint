@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TwentyOne.Card">
+    <Position X="11" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAABAEAAAQAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwentyOne.CardDeck">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAABQBAAAAg=</HashCode>
+      <FileName>CardDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwentyOne.Player">
+    <Position X="14.5" Y="1.5" Width="2" />
+    <Members>
+      <Method Name="GetNumOfAces" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAQAAEAEggIAAAAAAEACACABAAAAAAAQA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TwentyOne.TwentyOneGame">
+    <Position X="4.75" Y="1.25" Width="1.75" />
+    <Members>
+      <Method Name="PlayRound" Hidden="true" />
+      <Method Name="StartPlayingRound" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAACIAAAAAAAAAAAAAAAAgAABEAEBBAAAgAAAAAAA=</HashCode>
+      <FileName>TwentyOneGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
